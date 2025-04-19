@@ -32,3 +32,32 @@ This project focuses on analyzing agricultural data from an Excel dataset (`crop
 2. Open your downloaded Jupyter notebook file: jupyter notebook cyp.ipynb
 
 3. Make sure the file crop_csv_file.xlsx is placed in the same directory or edit the path.
+
+🧠 Models Used
+Linear Regression
+
+Support Vector Regression (SVR)
+
+Random Forest Regressor
+
+
+📊 Results
+Accuracy Scores for each model
+
+Visualizations of predicted vs actual crop yields
+
+Feature importance charts
+
+📌 Future Enhancements
+Using deep learning models for better prediction.
+
+Integrate real-time weather APIs.
+
+Building a simple dashboard using Flask/Streamlit.
+
+🤝 Contributions
+Feel free to fork this repo and contribute by submitting a pull request.
+
+📧 Contact
+Author: Naveen Reddy Mareddy
+📫 Email: naveenreddymareddy27@gmail.com
