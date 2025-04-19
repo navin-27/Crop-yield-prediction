@@ -27,11 +27,8 @@ This project focuses on analyzing agricultural data from an Excel dataset (`crop
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+1. Clone the repository
    
-Open your downloaded Jupyter notebook file: jupyter notebook cyp.ipynb
+2. Open your downloaded Jupyter notebook file: jupyter notebook cyp.ipynb
 
-Make sure the file crop_csv_file.xlsx is placed in the same directory or edit the path.
+3. Make sure the file crop_csv_file.xlsx is placed in the same directory or edit the path.
